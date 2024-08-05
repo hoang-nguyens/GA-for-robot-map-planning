@@ -3,11 +3,7 @@
 I have implementd code for a Genetic Algorithm applied to some grid maps for the robot map planning problem.
 
 
-
-
-
-
-Uploading GridMap.mp4…
+https://github.com/user-attachments/assets/5422d950-34bd-4800-be2a-e527db83a09b
 
 
 <video src="https://github.com/hoang-nguyens/GA-for-robot-map-planning/blob/master/Demo/GridMap.mp4" autoplay loop>
